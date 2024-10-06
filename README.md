@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @infilev as Anubhav
 - 👀 I’m interested in developer options.
-- 🌱 I’m currently learning Machine learning.
 
 
 <!---
